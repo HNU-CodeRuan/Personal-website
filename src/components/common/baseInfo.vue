@@ -53,7 +53,7 @@
         </li>
         <li>
           <a href="tel:17809298760" target="_blank">
-            <span class="contact-link">18641339935</span>
+            <span class="contact-link">186xxxxxxxx</span>
             <span class="iconfont">
               <svg width="16px" height="16px" viewBox="0 0 1024 1024">
                 <path
